@@ -7,8 +7,8 @@ namespace ImageToASCIIGraphics
     {
         static async Task Main(string[] args)
         {
-            string filePath = @"F:\Dev\ImageToASCIIGraphics\ContentDownload\";
-            string apiKey = "38519273-51bb27659ca29f833b32894f5";
+            string filePath = @"<PATH TO>ImageToASCIIGraphics\ContentDownload\";
+            string apiKey = "<YOUR API KEY>";
             string? query;
 
             do
